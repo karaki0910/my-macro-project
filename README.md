@@ -11,4 +11,4 @@ Hello, I am a third year in Keio University studying economics.
 - Business Cycles
 - Growth Accounting
 - Investment
-- ProductivityS
+- Productivity
