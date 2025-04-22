@@ -5,10 +5,10 @@ for quantitative macroeconomics
 This repository contains my work for the Keio Quantitative Macroeconomics course.
 
 ## About Me
-[Write a brief introduction about yourself]
+Hello, I am a third year in Keio University studying economics.
 
 ## Course Topics
 - Business Cycles
 - Growth Accounting
 - Investment
-- Productivity
+- ProductivityS
