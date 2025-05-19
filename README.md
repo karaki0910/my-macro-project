@@ -9,8 +9,10 @@ Hello, I am a third year in Keio University studying economics.
 
 ## Course Topics
 - Business Cycles
-    I used a virual enviroment to run the test Business Cycle on Python
-    Worked but had to install lots of addins
+    1. I used a virual enviroment to run the test Business Cycle on Python
+    2. Added task 1
+    3. Added task 2 5/19
+    
 - Growth Accounting
 - Investment
 - Productivity
